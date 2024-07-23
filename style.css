@@ -51,6 +51,7 @@ main h2 {
   font-size: 2rem;
 }
 .continer {
+  display: inline-block;
   width: 80%;
   align-self: center;
   overflow: auto;

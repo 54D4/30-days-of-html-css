@@ -1,5 +1,12 @@
 .Gradient_0 {
+  display: inline-block;
   width: 100px;
   height: 100px;
   background: linear-gradient(rgb(129, 129, 129), black);
+}
+.Gradient_1 {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background: linear-gradient(black, rgb(129, 129, 129));
 }
